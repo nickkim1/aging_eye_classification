@@ -1,0 +1,16 @@
+bassetenv/
+4-saved/
+0-data/0-refs
+5-deprecated/
+*.pyc
+*.xlsx
+*.gtf
+*.fasta
+*.fasta.fai
+*.fai
+*.bed
+*.fa
+*.txt
+*.pc
+*.csv
+*.pth
